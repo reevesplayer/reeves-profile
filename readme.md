@@ -32,5 +32,6 @@
 <br>
 <br>
 <br>
- ## My Stats
- [![Reeves' GitHub stats](https://github-readme-stats.vercel.app/api?username=reevesplayer)](https://github.com/reevesplayer)
+## My Stats
+
+[![Reeves' GitHub stats](https://github-readme-stats.vercel.app/api?username=reevesplayer)](https://github.com/reevesplayer)
