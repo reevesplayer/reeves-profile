@@ -29,3 +29,8 @@
  🧑‍💻 &emsp; Coding is my first language.<br/><br/>
  📧 &emsp; Email me [here](mailto:reevesplayer@outlook.com).
 
+<br>
+<br>
+<br>
+ ## My Stats
+ [![Reeves' GitHub stats](https://github-readme-stats.vercel.app/api?username=reevesplayer)](https://github.com/reevesplayer)
