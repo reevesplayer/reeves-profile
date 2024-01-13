@@ -44,7 +44,7 @@
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,lua,py,react" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,lua,py,react,nodejs" />
   </a>
 </p>
 
@@ -55,7 +55,7 @@
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,netlify,discord,ps,au,pr" />
+    <img src="https://skillicons.dev/icons?i=vscode,netlify,discord,ps,au,pr,bootstrap,firebase,aws" />
   </a>
 </p>
 <br>
